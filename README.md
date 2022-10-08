@@ -12,11 +12,9 @@ Por ahora, son para amoblar mi casa.
 
 ## Páginas referentes del proyecto
 
-* [Petit Pet Shop](https://www.petitpetshop.com.ar/) Se elegio esta pag por los colores y diseño similar a mercado liebre. 
-* [Puppis](https://www.puppis.com.ar/) Se eligio esta pag por el detalle de las oferta en circulos al principio.
-* [Petco](https://www.petco.com.mx/) Se eligio esta pag por los diseños de Comprar por tipo de mascota.
-* [Pet Planet Shop](https://petplanetshop.com.ar/) Se eligio esta pag por por el menu principal.
-* [Catycan](https://www.catycan.com/) Se eligio esta pag por lo sencilla y practica que es la pantalla del carrito de compras.
+* [Mi tienda Mueble](https://www.mitiendamueble.com.ar/) 
+* [Della Casa](https://www.dellacasaonline.com/) 
+* [Muebles Macro](https://www.mueblesmacro.com.ar/)
 
 
 ## Autor
