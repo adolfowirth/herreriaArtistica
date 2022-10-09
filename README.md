@@ -15,6 +15,7 @@ Por ahora, son para amoblar mi casa.
 * [Mi tienda Mueble](https://www.mitiendamueble.com.ar/) 
 * [Della Casa](https://www.dellacasaonline.com/) 
 * [Muebles Macro](https://www.mueblesmacro.com.ar/)
+* [Muebles Macro 2](https://www.mueblesmacro.com.ar/)
 
 
 ## Autor
