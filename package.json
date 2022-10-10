@@ -1,0 +1,26 @@
+{
+  "name": "herreriaartistica",
+  "version": "1.0.0",
+  "description": "\" Herreria Artistica \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adolfowirth/herreriaArtistica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adolfowirth/herreriaArtistica/issues"
+  },
+  "homepage": "https://github.com/adolfowirth/herreriaArtistica#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
