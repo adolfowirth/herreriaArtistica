@@ -1,0 +1,28 @@
+[
+    {
+     "id": 1,
+     "name": "Mesa1",
+     "description": "Mesa de caño estructural de 60 x 40 , con madera de eucalipto",
+     "image": "mesa1.jpg",
+     "category": "Caño estructural",
+     "family": "Mesa",
+     "price": 100000,
+     "discount": 30,
+     "user": "Admin",
+     "active": 1
+    },
+    {
+        "id": 2,
+        "name": "Repisa1",
+        "description": "Repisa de caño estructural de 70 x 30",
+        "image": "repisa.jpg",
+        "category": "Caño estructural",
+        "family": "Mesa",
+        "price": 120000,
+        "discount": 20,
+        "user": "Admin",
+        "active": 1
+       }
+
+
+]
