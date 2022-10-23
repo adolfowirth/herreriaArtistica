@@ -1,0 +1,16 @@
+[
+ {
+  "id": 1,
+  "fullName": "Adolfo Wirth",
+  "email": "adolfowirth@hotmail.com",
+  "password": "$2a$10$jyRhnUmtoT4mm58HmAYgcenLwTnH9DojzIrWa6tqC1nX8fzBCe/2.",
+  "avatar": "1666288604066_img.jpg"
+ },
+ {
+  "id": 2,
+  "fullName": "Santi",
+  "email": "santi@gmail.com",
+  "password": "$2a$10$m6munU8XTqmKBaUbc6xZhOxbS1g0ubHkEe0eXWptNM.YDyFTDKy1S",
+  "avatar": "1666399733468_img.jpg"
+ }
+]

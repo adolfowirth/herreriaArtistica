@@ -1,29 +1,48 @@
 <header>
-    <div class="header-superior">
+    <!-- <div class="header-superior">
         <div class="contacto">
             <div><span>0381-155654599</span><span> | </span><span>adolfowirth@hotmail.com</span></div>
             
         </div>
         
         <div class="registro">
-            <a href="#">Crear Cuenta</a><span>    |    </span></a><a href="#">Ingresar</a></a>
+            <a href="/user/register">Crear Cuenta</a><span>    |    </span></a><a href="/user/login">Ingresar</a></a>
             
         </div>
         
-    </div >
+    </div > -->
     
     <div class="header-medio">
         <a href="/"><img src="/img/logoNegro.png" alt="logo" class="logo"></a>
         <nav >
             <ul class="navBar">
-                <li><a href="/">Inicio</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="/products">Productos</a></li>
                 <li><a href="#">Varios</a></li>
             </ul>
         </nav>
+        <li> <a href="#"><i class="fa-solid fa-cart-shopping iconito"></i></a></li>
+        <nav>
+                <ul class="navBar">
+                    <% if (locals.isLogged) { %>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropUser" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <%= locals.userLogged.email %> 
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/user/profile">My profile</a>
+                                <li><hr class="dropdown-divider"></li>
+                                <a class="dropdown-item" href="/user/logout">Logout</a>
+                            </ul>
+                        </li>
+                    <% } else { %>
+                        <li class="nav-item"><a class="nav-link" href="/user/register">Register</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/user/login">Login</a></li>
+                    <% } %>
+                </ul>
 
+        </nav>
             
-            <li> <a href="#"><i class="fa-solid fa-cart-shopping iconito"></i></a></li>
             
     </div>
         
